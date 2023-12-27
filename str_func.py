@@ -5,3 +5,4 @@ def text_upper(text) -> str:
 def str_title(text)-> str:
     '''Convert a string to title case'''
     return text.title()
+
